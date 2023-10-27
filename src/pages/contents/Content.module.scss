@@ -1,0 +1,11 @@
+.input_seach {
+  width: 700px;
+}
+.wrapper_input {
+  text-align: center;
+  margin-bottom: 10px;
+  & input {
+    line-height: 2;
+    width: 550px;
+  }
+}

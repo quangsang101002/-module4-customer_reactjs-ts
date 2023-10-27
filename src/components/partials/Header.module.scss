@@ -1,0 +1,30 @@
+.wrapper {
+  font-size: 18px;
+  color: #fff !important;
+  background-color: rgb(216, 128, 57) !important;
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+  .navbar {
+    display: flex !important;
+    a {
+      color: #fff !important;
+    }
+  }
+  .infomation {
+    justify-content: flex-end;
+  }
+}
+.wrapper_search {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.input_seach {
+  width: 700px;
+}
+input {
+  width: 100%;
+}
+.custom_select_width {
+  width: 125px;
+}
